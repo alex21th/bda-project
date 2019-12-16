@@ -1,7 +1,11 @@
 **Author**: Jesus Antonanzas Acero, Alex Carrillo Alza
+
 **Version**: "1.0"
+
 **Email**: [jesus.maria.antonanzas@est.fib.upc.edu](jesus.maria.antonanzas@est.fib.upc.edu), [alex.carrillo.alza@est.fib.upc.edu](alex.carrillo.alza@est.fib.upc.edu)
+
 **Info**: BDA, GCED, Big Data Analytics project
+
 **Date**: 16/12/2019
 
 -------------------------------------
